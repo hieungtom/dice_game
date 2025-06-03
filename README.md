@@ -6,4 +6,6 @@
 
 <p>Through this project I've learnt basic DOM manipulation and making my code more readable with less duplicate lines.</p>
 
-![image](https://github.com/user-attachments/assets/90ef085b-8caf-400f-9f7a-cc0d4caa436a)
+![image](https://github.com/user-attachments/assets/313f7531-bdde-4e3a-ba03-37e3a8e81fb0)
+
+https://hieungtom.github.io/dice_game/
